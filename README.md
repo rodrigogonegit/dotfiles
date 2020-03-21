@@ -1,6 +1,7 @@
 # DotFiles
 
-![alt text](https://i.imgur.com/5BMN5IY.png "Glorious Desktop")
+![alt text](https://i.imgur.com/5BMN5IY.png?1 "Glorious Desktop")
+![alt text](https://i.imgur.com/6Zw9blH.png?1 "Stolen Rofi")
 
 # Table of contents
 1. [Kitty](#kitty)
