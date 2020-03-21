@@ -7,12 +7,14 @@
 2. [Picom](#picom)
 3. [Polybar](#polybar)
 4. [VSCode](#vscode)
+5. [Rofi](#rofi)
 
 ## Kitty <a name="kitty"></a>
 
 I am using [this repository of themes](https://github.com/dexpota/kitty-themes).
 
-As an excuse to play with ZSH autocompletion mechanisms, I built a basic *change kitty theme* command. You can find it in the `scripts` folder. The autocompletion bit is in `.scripts/custom-autocompletes-zsh`.
+As an excuse to play with ZSH autocompletion mechanisms, I built a basic *change kitty theme* command. You can find it in the `scripts` folder. The tiny autocompletion bit is in `.scripts/custom-autocompletes-zsh`:
+
 
 If you want to use it, make sure you add these two variables to your .zshrc or .bashrc, updating them with your paths:
 ```
@@ -60,3 +62,6 @@ Stole it from [here](https://github.com/milad-abbasi/i3-dotfiles). Slightly rewo
 
 [Slime theme](https://marketplace.visualstudio.com/items?itemName=smlombardi.slime)
 
+## Rofi
+
+Stole it from [here](https://github.com/dvvvxx/dotfiles/tree/master/.config/rofi). Slightly reworked. Author: [dvvvxx](https://github.com/dvvvxx)
