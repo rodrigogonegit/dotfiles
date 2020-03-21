@@ -1,0 +1,7 @@
+#compdef changekt
+
+function _change_kt() {
+	compadd $(ls $KITTY_THEMES_PATH) 
+}
+
+_change_kt "$@"
