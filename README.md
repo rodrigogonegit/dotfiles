@@ -1,14 +1,13 @@
 # DotFiles
 
-![alt text](https://i.imgur.com/5BMN5IY.png?1 "Glorious Desktop")
-![alt text](https://i.imgur.com/6Zw9blH.png?1 "Stolen Rofi")
-
+![alt text](https://i.imgur.com/7X6VGp3.png "Glorious Desktop")
 # Table of contents
 1. [Kitty](#kitty)
 2. [Picom](#picom)
 3. [Polybar](#polybar)
 4. [VSCode](#vscode)
 5. [Rofi](#rofi)
+5. [Subl3](#subl3)
 
 ### Note: Followed [this guide](https://www.atlassian.com/git/tutorials/dotfiles) to create these Dotfiles 
 ## Kitty <a name="kitty"></a>
@@ -62,8 +61,12 @@ Stole it from [here](https://github.com/milad-abbasi/i3-dotfiles). Slightly rewo
 
 ## VScode <a name="vscode"></a>
 
-[Slime theme](https://marketplace.visualstudio.com/items?itemName=smlombardi.slime)
+[Ayu (Mirage) theme](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 ## Rofi
 
 Stole it from [here](https://github.com/dvvvxx/dotfiles/tree/master/.config/rofi). Slightly reworked. Author: [dvvvxx](https://github.com/dvvvxx)
+
+### Sublime3 <a name="subl3"></a>
+
+[Ayu](https://packagecontrol.io/packages/ayu)
