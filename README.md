@@ -10,6 +10,7 @@
 4. [VSCode](#vscode)
 5. [Rofi](#rofi)
 
+### Note: Followed [this guide](https://www.atlassian.com/git/tutorials/dotfiles) to create these Dotfiles 
 ## Kitty <a name="kitty"></a>
 
 I am using [this repository of themes](https://github.com/dexpota/kitty-themes).
